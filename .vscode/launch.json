@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Try",
+            "request": "launch",
+            "mainClass": "Try",
+            "projectName": "leetcode_82b2974e"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
             "mainClass": "Solution",
